@@ -6,6 +6,11 @@ I'm a Software Developer who is passionate  with a strong focus on creating acce
 
 Currently, I’m focused on building exciting projects that challenge me to innovate. If you’re looking for someone who loves collaboration, open-source contributions, or just a coffee chat about tech, feel free to reach out! 🚀
 
+#About Me
+I craft innovative and scalable solutions for digital media. My comprehensive experience spans web, mobile and desktop development, with particular focus on media and digital asset management systems.
+
+My key strength lies in creating forward-thinking solutions that adapt across industries, enabling organizations to streamline and automate their work process or data management.
+
 ## 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
