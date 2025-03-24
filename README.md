@@ -4,12 +4,9 @@
 
 I'm a Software Developer who is passionate  with a strong focus on creating accessible open-source solutions leveraging technology to solve real-world problems.My expertise spans  mongoDB, Express, React, Node, JavaScript, Graphql, HTML and CSS. 
 
-Currently, I’m focused on building exciting projects that challenge me to innovate. If you’re looking for someone who loves collaboration, open-source contributions, or just a coffee chat about tech, feel free to reach out! 🚀
-
-#About Me
-I craft innovative and scalable solutions for digital media. My comprehensive experience spans web, mobile and desktop development, with particular focus on media and digital asset management systems.
-
-My key strength lies in creating forward-thinking solutions that adapt across industries, enabling organizations to streamline and automate their work process or data management.
+Currently, I’m focused on building exciting projects that challenge me to innovate.
+My comprehensive experience spans web, mobile and desktop development.My key strength lies in creating forward-thinking solutions that adapt across industries, enabling organizations to streamline their work process or data management.
+ If you’re looking for someone who loves collaboration, open-source contributions, or just a coffee chat about tech, feel free to reach out! 🚀
 
 ## 🛠️ Tech Stack
 
