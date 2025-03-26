@@ -6,7 +6,7 @@ I'm a Software Developer who is passionate  with a strong focus on creating acce
 
 Currently, I’m focused on building exciting projects that challenge me to innovate.
 My comprehensive experience spans web, mobile and desktop development.My key strength lies in creating forward-thinking solutions that adapt across industries, enabling organizations to streamline their work process or data management.
- If you’re looking for someone who loves collaboration, open-source contributions, or just a coffee chat about tech, feel free to reach out! 🚀
+If you’re looking for someone who loves collaboration, open-source contributions, or just a coffee chat about tech, feel free to reach out! 🚀
 
 ## 🛠️ Tech Stack
 
@@ -20,7 +20,7 @@ My comprehensive experience spans web, mobile and desktop development.My key str
      
 
 ### :octocat: My stats
-
+Built 10 projects
 
 ###  Collaboration & Design Tools
 
