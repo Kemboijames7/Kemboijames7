@@ -21,6 +21,7 @@ If you’re looking for someone who loves collaboration, open-source contributio
 
 ### :octocat: My stats
 Built 10 projects
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kemboijames7)](https://github.com/Kemboijames7/github-readme-stats)
 
 ###  Collaboration & Design Tools
 
