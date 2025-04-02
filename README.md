@@ -17,20 +17,19 @@ If you’re looking for someone who loves collaboration, open-source contributio
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-     
+    
+### Collaboration & Design Tools
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white&logoWidth=20) 
 
 ### :octocat: My stats
-Built 10 projects
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kemboijames7)](https://github.com/Kemboijames7/github-readme-stats)
 
-###  Collaboration & Design Tools
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kemboijames7"/>
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kemboijames7&layout=compact"/>
 
 
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white&logoWidth=20)
 
 
 ###  🤝 Get in touch
-
 
 
 ![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3131313131312f6c696e6b6564696e2e706e67](https://github.com/user-attachments/assets/88a6f24c-9c5e-4adb-b093-664662c7cb7c)
