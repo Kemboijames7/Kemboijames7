@@ -26,7 +26,11 @@ If you’re looking for someone who loves collaboration, open-source contributio
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kemboijames7"/>
 <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kemboijames7&layout=compact"/>
 
-
+## Open source
+🌟 Part of the GitHub Stars program
+🚀 Part of the GitHub Accelerator program for Beauty
+🟩 Join our inclusive community JamesHub! Where we believe in Collaboration 1st, Code 2nd!
+📸 FREE video course on How to make your GitHub profile standout
 
 
 ###  🤝 Get in touch
@@ -35,5 +39,6 @@ If you’re looking for someone who loves collaboration, open-source contributio
 ![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3131313131312f6c696e6b6564696e2e706e67](https://github.com/user-attachments/assets/88a6f24c-9c5e-4adb-b093-664662c7cb7c)
 
 ![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3131313131312f747769747465722d737175617265642e706e67](https://github.com/user-attachments/assets/cd515a72-c95d-4b72-8b85-d2a87927be2c)
+
 
 
