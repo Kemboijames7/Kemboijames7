@@ -21,16 +21,18 @@ If you’re looking for someone who loves collaboration, open-source contributio
 ### Collaboration & Design Tools
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white&logoWidth=20) 
 
-### :octocat: My stats
-
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kemboijames7"/>
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kemboijames7&layout=compact"/>
-
 ## Open source
 🌟 Part of the GitHub Stars program
 🚀 Part of the GitHub Accelerator program for Beauty
 🟩 Join our inclusive community JamesHub! Where we believe in Collaboration 1st, Code 2nd!
 📸 FREE video course on How to make your GitHub profile standout
+
+### :octocat: My stats
+
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kemboijames7"/>
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kemboijames7&layout=compact"/>
+
+
 
 
 ###  🤝 Get in touch
