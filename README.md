@@ -13,7 +13,7 @@ If you’re looking for someone who loves collaboration, open-source contributio
 
 
     
-### Collaboration & Design Tools
+## Collaboration & Design Tools
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white&logoWidth=20) 
 
 ## Open source
@@ -25,7 +25,7 @@ If you’re looking for someone who loves collaboration, open-source contributio
 
 📸 FREE video course on How to make your GitHub profile standout
 
-### :octocat: My stats
+## :octocat: My stats
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kemboijames7"/>
 <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kemboijames7&layout=compact"/>
@@ -33,6 +33,6 @@ If you’re looking for someone who loves collaboration, open-source contributio
 
 
 
-###  🤝 Get in touch 🌐 Socials:
+##  🤝 Get in touch 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/kemich_68293) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/james-kemboi-942b57209/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/JamesKemich) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/KemboiJames7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jameskemich@gmail.com) 
 
