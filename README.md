@@ -17,10 +17,13 @@ If you’re looking for someone who loves collaboration, open-source contributio
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white&logoWidth=20) 
 
 ## Open source
-#🌟 Part of the GitHub Stars program
-#🚀 Part of the GitHub Accelerator program for Beauty
-#🟩 Join our inclusive community JamesHub! Where we believe in Collaboration 1st, Code 2nd!
-#📸 FREE video course on How to make your GitHub profile standout
+ Part of the GitHub Stars program
+
+🚀 Part of the GitHub Accelerator program for Beauty
+
+🟩 Join our inclusive community JamesHub! Where we believe in Collaboration 1st, Code 2nd!
+
+📸 FREE video course on How to make your GitHub profile standout
 
 ### :octocat: My stats
 
