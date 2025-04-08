@@ -19,7 +19,7 @@ If you’re looking for someone who loves collaboration, open-source contributio
 ## Open source
  Part of the GitHub Stars program
 
-🚀 Part of the GitHub Accelerator program for Beauty
+🚀 Part of the GitHub Accelerator program for Beauty and entertainment
 
 🟩 Join our inclusive community JamesHub! Where we believe in Collaboration 1st, Code 2nd!
 
