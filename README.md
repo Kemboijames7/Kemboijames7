@@ -23,7 +23,7 @@ If you’re looking for someone who loves collaboration, open-source contributio
 
 🟩 Join our inclusive community JamesHub! Where we believe in Collaboration 1st, Code 2nd!
 
-📸 FREE video course on How to make your GitHub profile standout
+📸 FREE video course on How to make your GitHub profile standout and visible to clients.
 
 ## :octocat: My stats
 
