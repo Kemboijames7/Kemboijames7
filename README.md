@@ -45,9 +45,7 @@ If you’re looking for someone who loves collaboration, open-source contributio
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-
-
-
+##If you'd like to discuss any sort of opportunity, feel free to contact me through GitHub or LinkedIn.
 
 
 
