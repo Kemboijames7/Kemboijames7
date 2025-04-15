@@ -40,10 +40,11 @@ If you’re looking for someone who loves collaboration, open-source contributio
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kemboijames7/kemboijames7/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kemboijames7/kemboijames7/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kemboijames7/kemboijames7/output/github-snake.svg" />
 </picture>
+
 
 ##If you'd like to discuss any sort of opportunity, feel free to contact me through GitHub or LinkedIn.
 
