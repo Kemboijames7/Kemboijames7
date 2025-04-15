@@ -44,7 +44,7 @@ If you’re looking for someone who loves collaboration, open-source contributio
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kemboijames7/kemboijames7/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/kemboijames7/kemboijames7/output/github-snake.svg" />
 </picture>
-
+ 
 
 ##If you'd like to discuss any sort of opportunity, feel free to contact me through GitHub or LinkedIn.
 
