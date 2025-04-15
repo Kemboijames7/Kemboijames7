@@ -49,6 +49,7 @@ If you’re looking for someone who loves collaboration, open-source contributio
 
 
 
+![Visitor Count](https://profile-counter.glitch.me/Kemboijames7/count.svg)
 
 
 
